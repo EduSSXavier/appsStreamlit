@@ -1,2 +1,2 @@
 # appsStreamlit
-Aplicações Streamlit disponibilizadas online elo professor Eduardo Xavier
+Aplicações Streamlit disponibilizadas online pelo professor Eduardo Xavier
